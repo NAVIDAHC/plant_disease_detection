@@ -1,0 +1,21 @@
+# Ignore the entire dataset folder
+dataset/
+
+# Ignore the entire models folder
+models/
+
+# Common Python ignores (good practice)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+pip-freeze.txt
+*.egg-info/
+
+# OS-specific files (optional but common)
+.DS_Store
+Thumbs.db

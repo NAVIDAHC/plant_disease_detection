@@ -1,0 +1,465 @@
+Image,True_Label,Predicted_Label
+075caa8d-0748-441c-a365-754b43a5b538___GCREC_Bact.Sp 5625.JPG,Bacterial Spot,Bacterial Spot
+10ed1b4a-e116-4c7e-85f6-5cc4577dbbb8___GCREC_Bact.Sp 3188.JPG,Bacterial Spot,Bacterial Spot
+21f50927-9e52-4d6b-a3bd-8238cb23153a___GCREC_Bact.Sp 3271.JPG,Bacterial Spot,Bacterial Spot
+256051f1-8e69-4f2b-b4d5-400fccb18623___GCREC_Bact.Sp 3313.JPG,Bacterial Spot,Bacterial Spot
+34f9b271-4f62-4fd4-8c69-edfdf3b08314___UF.GRC_BS_Lab Leaf 1199.JPG,Bacterial Spot,Bacterial Spot
+35eba8e4-d6ea-437a-8945-91cbca22cd8b___UF.GRC_BS_Lab Leaf 0398.JPG,Bacterial Spot,Bacterial Spot
+450c2f14-597d-45b9-9796-c80e4fbdb114___GCREC_Bact.Sp 6117.JPG,Bacterial Spot,Bacterial Spot
+53f5c516-74f1-41b1-bd89-115568003933___GCREC_Bact.Sp 5704.JPG,Bacterial Spot,Bacterial Spot
+6a4ce1e3-a768-4f6e-96cf-3590df10fdc5___GCREC_Bact.Sp 3608.JPG,Bacterial Spot,Bacterial Spot
+6aa07949-08b2-4945-a535-3f8b49f86599___GCREC_Bact.Sp 6344.JPG,Bacterial Spot,Bacterial Spot
+6ab6800f-13bf-4956-858c-f25c1d43fd9a___GCREC_Bact.Sp 3419.JPG,Bacterial Spot,Bacterial Spot
+6e8def24-a55a-464e-88a3-624075de0cf1___GCREC_Bact.Sp 2952.JPG,Bacterial Spot,Bacterial Spot
+7624a9cd-018d-467a-99f9-2255a27103a4___GCREC_Bact.Sp 3725.JPG,Bacterial Spot,Bacterial Spot
+7684341d-0c30-4bc4-98c5-e09a96483692___GCREC_Bact.Sp 5695.JPG,Bacterial Spot,Bacterial Spot
+797b134d-3511-4e24-8372-2a61507095af___GCREC_Bact.Sp 3143.JPG,Bacterial Spot,Bacterial Spot
+7a0193fd-9941-4800-b425-aafa3a998737___GCREC_Bact.Sp 5774.JPG,Bacterial Spot,Bacterial Spot
+7b364fcb-622e-40fd-92fe-aec01682497e___GCREC_Bact.Sp 6087.JPG,Bacterial Spot,Bacterial Spot
+804d4f72-ba6c-4de8-acac-3cfa3683ee81___GCREC_Bact.Sp 5575.JPG,Bacterial Spot,Bacterial Spot
+81349fa9-f5ca-449c-8f10-47788ed939a4___GCREC_Bact.Sp 6153.JPG,Bacterial Spot,Bacterial Spot
+82b9b632-6609-4f02-b58c-63480badb4e9___GCREC_Bact.Sp 6164.JPG,Bacterial Spot,Bacterial Spot
+86501b42-94c0-4f0c-98de-f6a0364a5bf2___GCREC_Bact.Sp 6220.JPG,Bacterial Spot,Bacterial Spot
+8a496fba-9b07-47a4-a9b0-8f14f6715cec___GCREC_Bact.Sp 5659.JPG,Bacterial Spot,Bacterial Spot
+93b4e153-ff54-4ad7-871a-0f5e6e1df5cd___GCREC_Bact.Sp 5723.JPG,Bacterial Spot,Bacterial Spot
+a20c3f1b-0788-423d-a6dd-22e29b33a882___GCREC_Bact.Sp 6231.JPG,Bacterial Spot,Bacterial Spot
+a75e41ac-5944-4698-876b-1d0716934982___GCREC_Bact.Sp 5970.JPG,Bacterial Spot,Bacterial Spot
+b2b3acc9-66f5-4451-9103-deaca3797430___GCREC_Bact.Sp 3446.JPG,Bacterial Spot,Bacterial Spot
+b64c7a63-777f-4f39-bdb8-92fbdbefbdbd___GCREC_Bact.Sp 3580.JPG,Bacterial Spot,Bacterial Spot
+b8eae33d-0b5a-45c0-a926-001512a72db1___UF.GRC_BS_Lab Leaf 0611.JPG,Bacterial Spot,Late Blight
+c068927f-d34d-4fcf-b356-0d60f0a5e77c___GCREC_Bact.Sp 3031.JPG,Bacterial Spot,Bacterial Spot
+c693b071-ccf9-40e9-97f9-341c2da3c5b1___GCREC_Bact.Sp 3751.JPG,Bacterial Spot,Bacterial Spot
+cef66036-f0d8-4ab8-898f-8269c2051331___UF.GRC_BS_Lab Leaf 9071.JPG,Bacterial Spot,Bacterial Spot
+cfadf3d6-8988-4cd5-967d-589977eccd48___GCREC_Bact.Sp 6274.JPG,Bacterial Spot,Bacterial Spot
+d1b03545-d17a-4d66-82b9-6c7e73e71906___GCREC_Bact.Sp 6316.JPG,Bacterial Spot,Bacterial Spot
+d903df67-fe54-4892-be62-1db1a8bbe6d2___GCREC_Bact.Sp 5942.JPG,Bacterial Spot,Bacterial Spot
+d90c232c-8940-4931-8b77-346b7fecf992___GCREC_Bact.Sp 3729.JPG,Bacterial Spot,Bacterial Spot
+de2b6ef8-f5cc-4cf5-bebf-273d12f2626f___GCREC_Bact.Sp 6301.JPG,Bacterial Spot,Bacterial Spot
+e33fbdfb-6511-47b7-9dc2-afa294f3ba0e___UF.GRC_BS_Lab Leaf 1045.JPG,Bacterial Spot,Bacterial Spot
+e7c9c9ed-9e51-4056-93c7-f1ddf74f2ebc___UF.GRC_BS_Lab Leaf 0945.JPG,Bacterial Spot,Bacterial Spot
+ecc30297-bfb6-4e9e-8b3e-f29ca20cffa7___UF.GRC_BS_Lab Leaf 8904.JPG,Bacterial Spot,Bacterial Spot
+ee21b0ab-9f7c-4d95-99db-5d53dcfd5c1b___GCREC_Bact.Sp 3770.JPG,Bacterial Spot,Bacterial Spot
+eea69188-8c51-4d11-9e2d-4aec3e91a078___UF.GRC_BS_Lab Leaf 8912.JPG,Bacterial Spot,Bacterial Spot
+f31f2360-da0a-434a-8469-ebd257c4c29c___GCREC_Bact.Sp 5751.JPG,Bacterial Spot,Bacterial Spot
+f715c7e4-8b89-4eda-b020-adcf49e910f0___GCREC_Bact.Sp 6315.JPG,Bacterial Spot,Bacterial Spot
+07f54257-0ec8-4bce-991f-90d46646d4f8___RS_GLSp 4378 copy 2.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+1b1991ac-4e5c-4528-ac3d-096d63fb05aa___RS_GLSp 4491_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+2b6bb6a5-3f70-48da-a968-13d840815bbb___RS_GLSp 9277_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+2ff35cfb-2145-4844-9755-e977af5f661d___RS_GLSp 4434_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+3c70ede6-fd2c-4e9c-8c2c-2d6a369564d4___RS_GLSp 4345_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+3e21011f-edbd-4a4a-ae6d-16e08552169a___RS_GLSp 7310_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+527b87bb-91fb-4b6b-bb7f-6ff64b09ef80___RS_GLSp 7305_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+5f00e4d0-e48c-4b6b-9602-022fd38cf7e7___RS_GLSp 7331_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+7565238f-ba56-4a1b-93b6-a978fbc19e6a___RS_GLSp 4309_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+75c57507-6463-4886-8195-b1319c434ef7___RS_GLSp 4390_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+7aaf97df-dc18-4858-887d-e27dfe6c020e___RS_GLSp 7330_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+80a35c48-04ed-457d-a7e0-ac5179c7b53a___RS_GLSp 7292_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+81babd8e-2bdb-4cea-baa9-9ae6d871aa88___RS_GLSp 9301_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+8372ebc2-c180-4161-b7b3-0b05a5700d0d___RS_GLSp 9325_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+850945f0-128d-4e93-a2f9-d5e79bd0068c___RS_GLSp 4308.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+8596a96c-faff-424a-9f05-c21f486d63c5___RS_GLSp 4372_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+89db4731-dd79-48cc-a1d8-0ef44165e613___RS_GLSp 4564_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+8da48548-461c-4574-9435-74310d8207a3___RS_GLSp 4387_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+9043a294-8d22-405f-add1-7e5bf1606e7a___RS_GLSp 4431 copy 2_new30degFlipLR.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+919e2c3d-488e-440e-9841-60348cdb4adf___RS_GLSp 9322_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+987f8819-fe72-413a-bf64-9a4d07acf353___RS_GLSp 9351 copy_270deg.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+a401fce7-28ad-4d2f-bf98-3ef87ae65ba5___RS_GLSp 4614_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+aa261076-42a4-45b0-bc3a-e7fab382f194___RS_GLSp 4403_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+ae535bc2-e24f-437e-ba3c-661fb05c0173___RS_GLSp 4461.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+b9a39437-94b7-41e3-b309-080e9a93d5ca___RS_GLSp 4440.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+bc43c710-9fa2-44a2-8420-94c71c01c2c6___RS_GLSp 7278_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+c15dae11-38d1-47c3-99e0-c579ddeb3fb3___RS_GLSp 9269_new30degFlipLR.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+c7900124-4885-46fa-95b8-f335fbcd48d7___RS_GLSp 4290 copy.jpg,Cercospora Leaf Spot,Northern Leaf Blight
+c98f6b90-ac72-4ea0-99d1-dfe5ff4d791a___RS_GLSp 4447 copy_new30degFlipLR.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+cf1a5200-6ba7-4b6f-af28-969e47db1c7e___RS_GLSp 4660.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+d0df634b-a2ee-4a22-8430-8a3b0e2c68c3___RS_GLSp 7344.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+d1f9878a-eea5-4008-8a1d-b3a88e2654b8___RS_GLSp 4640_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+da87ef8d-d7ac-409e-9482-a85173ed8922___RS_GLSp 4454.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+da87ef8d-d7ac-409e-9482-a85173ed8922___RS_GLSp 4454_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+de66a37b-002d-4e21-8f4a-a34976b74892___RS_GLSp 9283.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+eb963671-b486-4f91-9e7a-8315b81c13fc___RS_GLSp 4287 copy_90deg.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+ed2d6237-f67a-4a5b-bd44-f122388bcd80___RS_GLSp 4620 copy_270deg.jpg,Cercospora Leaf Spot,Cercospora Leaf Spot
+ef0479e0-c62b-4a8f-a5c6-1957d0a77c8f___RS_GLSp 4396_270deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+f421d03e-750a-4423-bf6f-c1ac48795f8d___RS_GLSp 4642.JPG,Cercospora Leaf Spot,Northern Leaf Blight
+f7ece943-7833-4a22-bb40-9644311794fd___RS_GLSp 4635_90deg.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+f8c850bb-1c2e-4340-8f00-bda707afcfa6___RS_GLSp 4451.JPG,Cercospora Leaf Spot,Cercospora Leaf Spot
+RS_Rust 1585.JPG,Common Rust,Common Rust
+RS_Rust 1652_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 1697.JPG,Common Rust,Common Rust
+RS_Rust 1710_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 1771_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 1813.JPG,Common Rust,Common Rust
+RS_Rust 1885.JPG,Common Rust,Common Rust
+RS_Rust 1965_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 1967.JPG,Common Rust,Common Rust
+RS_Rust 1989.JPG,Common Rust,Common Rust
+RS_Rust 2004.JPG,Common Rust,Common Rust
+RS_Rust 2007.JPG,Common Rust,Common Rust
+RS_Rust 2013.JPG,Common Rust,Common Rust
+RS_Rust 2016_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2021.JPG,Common Rust,Common Rust
+RS_Rust 2043_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2049_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2056_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2063.JPG,Common Rust,Common Rust
+RS_Rust 2091.JPG,Common Rust,Common Rust
+RS_Rust 2151_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2225_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2258.JPG,Common Rust,Common Rust
+RS_Rust 2310_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2319_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2329.JPG,Common Rust,Common Rust
+RS_Rust 2363_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2382.JPG,Common Rust,Common Rust
+RS_Rust 2410_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2413_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2417.JPG,Common Rust,Common Rust
+RS_Rust 2464_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2468.JPG,Common Rust,Common Rust
+RS_Rust 2481_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2512_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2514.JPG,Common Rust,Common Rust
+RS_Rust 2542_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2564.JPG,Common Rust,Common Rust
+RS_Rust 2592_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2606_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2607.JPG,Common Rust,Common Rust
+RS_Rust 2623_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2629.JPG,Common Rust,Common Rust
+RS_Rust 2636_flipLR.JPG,Common Rust,Common Rust
+RS_Rust 2667.JPG,Common Rust,Common Rust
+RS_Rust 2707.JPG,Common Rust,Common Rust
+RS_Rust 2730.JPG,Common Rust,Common Rust
+RS_Rust 2761_flipLR.JPG,Common Rust,Common Rust
+072ae43a-416b-434a-a5a2-1b48bc47fada___RS_Erly.B 7472_flipTB.JPG,Early Blight,Early Blight
+1829d517-53ae-48a9-b721-5043dd10d0d2___RS_Erly.B 9518.JPG,Early Blight,Early Blight
+250df77c-cb57-4e85-9cf2-531033930030___RS_Erly.B 6477.JPG,Early Blight,Early Blight
+265940d8-b4e9-446f-b977-3cbd9ee4f789___RS_Erly.B 9595_180deg.JPG,Early Blight,Early Blight
+347120f8-e92d-43f7-9ace-196890cec04d___RS_Erly.B 9421_180deg.JPG,Early Blight,Early Blight
+43e84adf-0897-47dc-97a4-94ef0e83eef5___RS_Erly.B 6399_180deg.JPG,Early Blight,Early Blight
+51f589f7-d843-4d5d-8c5a-385951f58865___RS_Erly.B 9424.JPG,Early Blight,Early Blight
+6043e8e3-0ab2-4b30-b125-e2a26123b487___RS_Erly.B 8307.JPG,Early Blight,Early Blight
+60b089ee-97ea-4df8-bb95-cd8c2094b24e___RS_Erly.B 9426.JPG,Early Blight,Early Blight
+65bc0e3e-39a0-4fde-a9b3-65d2dd7dd63e___RS_Erly.B 7485_180deg.JPG,Early Blight,Early Blight
+6c5baf51-ae97-41dd-9728-1995177e3b6a___RS_Erly.B 7723.JPG,Early Blight,Early Blight
+70ef7eee-0584-44fc-9c5d-95b504554266___RS_Erly.B 7709_flipTB.JPG,Early Blight,Early Blight
+73cf82cf-a099-4243-a7a6-b06c79eedb65___RS_Erly.B 7412_flipTB.JPG,Early Blight,Early Blight
+748ed7a9-9044-49d2-943d-8c82a1763c55___RS_Erly.B 8230_180deg.JPG,Early Blight,Septoria Leaf Spot
+748ed7a9-9044-49d2-943d-8c82a1763c55___RS_Erly.B 8230_flipTB.JPG,Early Blight,Late Blight
+7763d482-8290-46f4-83aa-edb87ae15297___RS_Erly.B 7766.JPG,Early Blight,Early Blight
+79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492_flipTB.JPG,Early Blight,Early Blight
+801083ae-26f9-4a9a-9e9a-f73fb18b67e5___RS_Erly.B 7363_180deg.JPG,Early Blight,Early Blight
+803ac166-670f-4cad-9f37-e36eea3118d9___RS_Erly.B 9457.JPG,Early Blight,Early Blight
+8714986a-ae97-489a-8259-67411bfa2379___RS_Erly.B 9400_flipTB.JPG,Early Blight,Early Blight
+93533fec-94de-411f-a52e-38cd4d36dbee___RS_Erly.B 9558_180deg.JPG,Early Blight,Early Blight
+a278a40a-bb25-4210-b646-2d232245851a___RS_Erly.B 7719_180deg.JPG,Early Blight,Early Blight
+a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492_180deg.JPG,Early Blight,Early Blight
+b24f8f98-4bfe-4605-85f5-738fc09e58fe___RS_Erly.B 6406.JPG,Early Blight,Late Blight
+b5c94157-7110-420f-99fc-040594d6ff12___RS_Erly.B 9474.JPG,Early Blight,Early Blight
+b868515e-a566-4b0b-9633-30203270943f___RS_Erly.B 9401.JPG,Early Blight,Early Blight
+bbb5a1cf-9b5f-4e2f-9e3d-e04a241c2806___RS_Erly.B 8283_180deg.JPG,Early Blight,Early Blight
+bef16984-17c5-4796-9496-85808dfa3a56___RS_Erly.B 9405_180deg.JPG,Early Blight,Early Blight
+c66ca8bd-a004-4efb-a66c-3be5168aaaca___RS_Erly.B 7826_flipTB.JPG,Early Blight,Early Blight
+c6e96373-484c-45da-b043-0a294a59ad2c___RS_Erly.B 7401_180deg.JPG,Early Blight,Late Blight
+c7005da5-2322-44e9-aceb-c6abe348f98c___RS_Erly.B 6490_180deg.JPG,Early Blight,Early Blight
+cacbfac0-f563-452c-b506-1ce7bd06d680___RS_Erly.B 9379_180deg.JPG,Early Blight,Early Blight
+caf4e799-6574-4eb6-81df-edd5d256fd45___RS_Erly.B 7536_180deg.JPG,Early Blight,Early Blight
+cef9fa90-aca2-4354-b79e-2486409ac685___RS_Erly.B 7563.JPG,Early Blight,Early Blight
+d368153c-6779-4a7e-a82d-9ae10dd36bb2___RS_Erly.B 7678_flipTB.JPG,Early Blight,Early Blight
+d41e78aa-0020-457b-a17d-736d426adad5___RS_Erly.B 7755_flipTB.JPG,Early Blight,Early Blight
+d934ba74-0149-457f-b5e7-c11d595f285e___RS_Erly.B 7365_flipTB.JPG,Early Blight,Early Blight
+dc4cc3e3-0181-48e9-93a2-7c019df0e04b___RS_Erly.B 9513_flipTB.JPG,Early Blight,Early Blight
+e0f7927f-2310-4db1-92cf-cb89a3e14678___RS_Erly.B 7848_flipTB.JPG,Early Blight,Early Blight
+e29ee209-e895-434f-9078-db727c5a98dd___RS_Erly.B 9383_180deg.JPG,Early Blight,Early Blight
+e2ce6add-93e2-4c1f-9ee3-2354d1542e8b___RS_Erly.B 7698_180deg.JPG,Early Blight,Early Blight
+e4739018-9e7b-4251-917f-c8502e8b5e86___RS_Erly.B 9443.JPG,Early Blight,Early Blight
+e5266d06-0ba7-49c6-9bc6-c8351b56fc88___RS_Erly.B 8294_180deg.JPG,Early Blight,Early Blight
+e6645f63-afc8-416a-a4cb-0f5c719476ae___RS_Erly.B 6419_flipTB.JPG,Early Blight,Early Blight
+f0dfdada-f425-46d7-8cf3-2957850b5a2e___RS_Erly.B 9466.JPG,Early Blight,Early Blight
+f33995ae-6456-476c-b832-4ff4cbaf49f7___RS_Erly.B 7525_flipTB.JPG,Early Blight,Early Blight
+fb956247-8c0b-486a-b491-4d49e77e598e___RS_Erly.B 7842_180deg.JPG,Early Blight,Early Blight
+fcf97241-bd84-4829-b326-72590a3f4f59___RS_Erly.B 7555_180deg.JPG,Early Blight,Early Blight
+06ec8081-1520-43e3-bda7-d74467f55992___R.S_HL 7935 copy_flipLR.jpg,Healthy,Healthy
+085cbe78-1d5c-45eb-877f-f409526032d5___GH_HL Leaf 469.JPG,Healthy,Healthy
+0caff918-5807-40f2-b9e4-7dd34a7bab5d___RS_HL 0345.JPG,Healthy,Healthy
+10b36861-6a00-41d9-9858-e00adcfb17e7___RS_HL 0235.JPG,Healthy,Healthy
+116e19d7-8948-4eaa-8309-617434b47f57___R.S_HL 0615.JPG,Healthy,Healthy
+14d46dfe-5348-428c-af6b-82b6625ce6c3___GH_HL Leaf 483.1.JPG,Healthy,Healthy
+1bd9f661-9b9c-4faf-80ab-86a8a64a8bc2___RS_HL 0271_flipTB.JPG,Healthy,Healthy
+1ca23194-53c1-44a9-973a-39aa073f4a33___RS_HL 0058_180deg.JPG,Healthy,Healthy
+1db3211e-b730-419d-ae1d-b22cd923333a___R.S_HL 8291 copy_flipLR.jpg,Healthy,Healthy
+1e4aef32-09c5-4af8-8948-dc86bd8ef2e7___GH_HL Leaf 215.1_180deg.JPG,Healthy,Healthy
+1f618ad4-7c33-4bfc-9054-f1acae89e776___R.S_HL 5504 copy.jpg,Healthy,Healthy
+2a0d08cc-91b5-436b-abe4-31835c5f470b___RS_HL 0396_180deg.JPG,Healthy,Healthy
+2e0a7517-332f-4799-a083-5d393172909a___RS_HL 0612_new30degFlipLR.JPG,Healthy,Healthy
+2e485f1d-5aa5-4d56-8733-9625ed4d000c___GH_HL Leaf 344_flipTB.JPG,Healthy,Healthy
+2ec18b22-c51c-456b-bf94-d5f3d282fb6c___RS_HL 0179_180deg.JPG,Healthy,Healthy
+2fd78b0f-a307-4824-9e6c-ff4a3f27e3c8___GH_HL Leaf 403_new30degFlipLR.JPG,Healthy,Healthy
+30c4edae-2957-43ea-b522-88f0f1822fbd___R.S_HL 8209 copy 2.jpg,Healthy,Healthy
+32a1562a-00ca-4e01-b8fa-9bb9a964f2fe___R.S_HL 7984 copy.jpg,Healthy,Healthy
+337e35e3-7b0d-4760-a1f6-c26c7db90a0b___GH_HL Leaf 425.JPG,Healthy,Healthy
+3796ec31-0263-4e17-a312-7871e7b5c0c2___GH_HL Leaf 486.JPG,Healthy,Healthy
+3887cbce-afde-4244-b39e-25ee0c9e24fc___GH_HL Leaf 235.1.JPG,Healthy,Healthy
+388aca21-8d73-460f-8f58-a876f294f98e___GH_HL Leaf 463.JPG,Healthy,Healthy
+3b0d89df-61d0-407f-9a26-661c8bb730cf___GH_HL Leaf 242_180deg.JPG,Healthy,Healthy
+3b4a011c-68ae-4b84-90b5-27ef4b2d3447___GH_HL Leaf 255.JPG,Healthy,Healthy
+3bbaca2e-d2fd-4fcb-bbd7-e1ad4f7a84ae___RS_HL 0630_new30degFlipLR.JPG,Healthy,Healthy
+3be50742-0fe9-404a-809e-9597793748a8___GH_HL Leaf 191_new30degFlipLR.JPG,Healthy,Healthy
+3ca66c86-4b6e-423d-b721-e11ddc503946___R.S_HL 8267 copy_flipLR.jpg,Healthy,Healthy
+3dd714a8-5c95-4d47-a9d0-0ac15a499c2c___RS_HL 0386_new30degFlipLR.JPG,Healthy,Healthy
+3f5047d4-f421-4313-9281-f333f60caadd___RS_HL 9659_flipTB.JPG,Healthy,Healthy
+433a363a-c354-4972-bd8c-b3fcee49a336___R.S_HL 8302 copy 2_flipLR.jpg,Healthy,Healthy
+4b8f6f0d-ed84-49ae-a92e-6cf049a42207___RS_HL 9652_flipTB.JPG,Healthy,Healthy
+505465db-407b-4e0a-8110-7479dad5261c___GH_HL Leaf 389.JPG,Healthy,Healthy
+5558853b-3853-4ef2-9824-a73060db0b30___R.S_HL 0631 copy 3.jpg,Healthy,Healthy
+55ea99a3-17b3-4971-8159-0fa4e369c0d7___R.S_HL 8219 copy 2_flipLR.jpg,Healthy,Healthy
+59f7744f-c282-416c-8387-cdbbb195cd4f___R.S_HL 7928 copy_flipLR.jpg,Healthy,Healthy
+5faa74ba-8f46-4b2b-a7bf-3bc8d9458526___RS_HL 9741.JPG,Healthy,Healthy
+5face5cd-e150-42f5-8ae6-eef79c43b05b___R.S_HL 8010 copy 2.jpg,Healthy,Healthy
+600f5c3a-2156-4485-b74a-c14a16534706___R.S_HL 7958 copy_flipLR.jpg,Healthy,Healthy
+620e70fd-98d9-40c4-b9a9-803080d1d371___R.S_HL 7968 copy 2_flipLR.jpg,Healthy,Healthy
+624c0cfa-3729-4f6c-9236-1c3a4ee66431___R.S_HL 8214 copy_flipLR.jpg,Healthy,Healthy
+625ae925-ee23-46fb-a5fb-535b92c248be___R.S_HL 5543 copy_flipLR.jpg,Healthy,Healthy
+650d4770-c4b9-4854-8476-681d9d93034c___R.S_HL 5557 copy.jpg,Healthy,Healthy
+6647a8ea-ccea-4acc-b40c-ef520817b955___R.S_HL 8098 copy 3_flipLR.jpg,Healthy,Healthy
+671e7602-81f4-4fae-9b2e-36f78463ae66___R.S_HL 7994 copy.jpg,Healthy,Healthy
+67c6930f-deba-4f88-81ac-969155f5765b___R.S_HL 8079 copy 2.jpg,Healthy,Healthy
+68f66822-cde2-4a2c-b58e-a16900362a75___RS_HL 9674.JPG,Healthy,Healthy
+6aaf943e-fb16-4f8f-86c5-dc36724e25e5___R.S_HL 0607.JPG,Healthy,Healthy
+6c5ad7e4-a826-40af-abf9-0a9e6346e656___RS_HL 0196.JPG,Healthy,Healthy
+719352b5-1b4c-41e5-a517-3dfde18c13ef___RS_HL 0300.JPG,Healthy,Healthy
+765876b6-89e3-45dc-b3f0-1879028a9a1b___R.S_HL 8129 copy_flipLR.jpg,Healthy,Healthy
+7ce1f8c1-1542-4d7b-be27-11e29d572283___GH_HL Leaf 508.2.JPG,Healthy,Healthy
+81ec1ee6-7ff1-4811-8bf0-f97870a71a84___R.S_HL 8133 copy 2_flipLR.jpg,Healthy,Healthy
+879b48e5-11f8-4989-8226-08af79bd6eb1___RS_HL 0453.JPG,Healthy,Healthy
+89ecd925-23ef-4bfe-8c55-cad05161aca2___GH_HL Leaf 236.1.JPG,Healthy,Healthy
+8a08b66c-17a6-4689-a64e-bf22d57cc60a___R.S_HL 8173 copy 2.jpg,Healthy,Healthy
+8d78a34f-1777-4bd8-a925-795c57c11787___GH_HL Leaf 429.1.JPG,Healthy,Healthy
+99089d6e-ec29-4731-8b88-f6aebfd2fb93___R.S_HL 5504 copy 2_flipLR.jpg,Healthy,Healthy
+9b6f7782-2244-4575-8226-d5083c2d0223___R.S_HL 8144 copy.jpg,Healthy,Healthy
+9c774ac1-c09e-4365-bb0e-eee0dd61ac3c___R.S_HL 0637 copy 3_flipLR.jpg,Healthy,Healthy
+9dc940f8-cd79-4341-95ef-f845583d9dff___RS_HL 9751.JPG,Healthy,Healthy
+9dfa9d89-0a19-4e22-81c1-07c54a21f982___RS_HL 9768.JPG,Healthy,Healthy
+a1414092-da7c-4e7e-9b25-6fb76e07285b___RS_HL 0247.JPG,Healthy,Healthy
+a30b3484-0f97-474a-92f5-5e6dc55885cd___R.S_HL 8000 copy_flipLR.jpg,Healthy,Healthy
+a8ce309e-86b8-4a8c-ad2e-0def8c89382c___R.S_HL 7890 copy 2.jpg,Healthy,Healthy
+ab203172-45d2-492f-94e0-6d15a1d34209___RS_HL 9831.JPG,Healthy,Healthy
+ad270b53-60f2-4d27-8d7a-54d8f60f268b___RS_HL 0253.JPG,Healthy,Healthy
+b0222ee7-9fad-4204-8738-15eb8e879001___R.S_HL 8062 copy 2_flipLR.jpg,Healthy,Healthy
+b2495f66-78f3-40d5-b3e0-1a02545825cc___R.S_HL 5510 copy 2_flipLR.jpg,Healthy,Healthy
+b4b60243-de84-444a-973f-f2ce191527f5___R.S_HL 7981 copy_flipLR.jpg,Healthy,Healthy
+bad3b814-de59-4c37-8f47-00ed153f7e4f___RS_HL 0214.JPG,Healthy,Healthy
+bb8f35ea-47d6-410e-911f-8bde0e62d6be___R.S_HL 7923 copy.jpg,Healthy,Healthy
+bc95ac1d-48c4-4a4b-a303-7441a09751d9___R.S_HL 7887 copy 2_flipLR.jpg,Healthy,Healthy
+bcf2a4c7-5e73-4443-b39c-74fd6895afb5___GH_HL Leaf 248.1.JPG,Healthy,Healthy
+c0c11e94-597e-4a17-94f2-8cb6e06ddb7d___R.S_HL 8086 copy_flipLR.jpg,Healthy,Healthy
+c3dcca18-f12f-4a4d-a90c-563ded6c7df8___RS_HL 9691.JPG,Healthy,Healthy
+c5f1eec0-35c2-43ce-8a14-575d86258f73___RS_HL 0337.JPG,Healthy,Healthy
+c7db2891-1bfa-4047-8864-66be6cc9e185___RS_HL 0162.JPG,Healthy,Healthy
+c936eeae-4d4b-4c8c-8ef4-5cb2277a85a5___R.S_HL 8222 copy.jpg,Healthy,Healthy
+cb4a3d83-e307-4eb7-8723-21ae84d4fb64___R.S_HL 8244 copy 2_flipLR.jpg,Healthy,Healthy
+ce56d8ec-bfd5-4755-8010-c42658f8d597___RS_HL 0090.JPG,Healthy,Healthy
+ceb2bf82-b22d-43bb-9a32-cac11e19febd___RS_HL 0406.JPG,Healthy,Healthy
+d0d0643e-c7f1-4cf3-8399-cfd8a73d1af3___RS_HL 9650.JPG,Healthy,Healthy
+d3acd928-1f63-4192-8da5-8ebc84caacc2___R.S_HL 5521 copy.jpg,Healthy,Healthy
+d83ea494-b075-49d2-9c86-07e988bd6033___R.S_HL 8095 copy 2.jpg,Healthy,Healthy
+dc1b347c-03b4-468d-9c9a-bebdc467d3c0___R.S_HL 0650 copy_flipLR.jpg,Healthy,Healthy
+debe033e-a878-46dc-8336-8bc25811df35___GH_HL Leaf 303.JPG,Healthy,Healthy
+e1aeb847-e87b-4f24-aca7-c6e06b6c07ca___GH_HL Leaf 185.JPG,Healthy,Healthy
+e23676bc-f581-4cde-b33d-2960daffc210___R.S_HL 8255 copy 2.jpg,Healthy,Healthy
+e23676bc-f581-4cde-b33d-2960daffc210___R.S_HL 8255 copy 2_flipLR.jpg,Healthy,Healthy
+e786d1da-3a80-4f33-89cd-b5fdee3d3318___R.S_HL 8197 copy_flipLR.jpg,Healthy,Healthy
+e83663a8-93f0-470c-8f43-7366bb3d8233___R.S_HL 7908 copy 2_flipLR.jpg,Healthy,Healthy
+ee069f8c-3110-446b-827b-f7a229833db6___R.S_HL 8154 copy.jpg,Healthy,Healthy
+efe02473-2f94-4ff5-a478-cc9d8ebd79da___RS_HL 9671.JPG,Healthy,Healthy
+f3c516b2-43df-4646-a8fc-a6fe2a81b305___R.S_HL 8332 copy 2_flipLR.jpg,Healthy,Healthy
+f6a5a9a3-f9a6-4fad-83c3-2ce3e8618b52___RS_HL 0169.JPG,Healthy,Healthy
+faf9f997-3a4d-4723-bb16-ce26362afd77___R.S_HL 8114 copy.jpg,Healthy,Healthy
+021a9808-21f7-464a-8df2-2eda5ed98eda___RS_Late.B 5356.JPG,Late Blight,Late Blight
+0a4b3cde-c83a-4c83-b037-010369738152___RS_Late.B 6985_flipLR.JPG,Late Blight,Late Blight
+1745208a-82b2-4a82-9791-d812cb016850___GHLB2 Leaf 95.JPG,Late Blight,Late Blight
+1b7d11ff-e94c-45cb-9ef2-6430f989e90e___GHLB2 Leaf 120.1.JPG,Late Blight,Late Blight
+26a758e3-7804-4240-b1da-b6b6691355ca___RS_Late.B 4951.JPG,Late Blight,Late Blight
+288f203e-7996-4290-afa7-f95c0c30506a___RS_Late.B 5562.JPG,Late Blight,Late Blight
+2f6eb969-db8b-48ae-954d-f716a61fce22___RS_Late.B 6555_flipLR.JPG,Late Blight,Late Blight
+3dcee9ed-43bb-45a9-8cff-641b3dd62179___RS_Late.B 5324.JPG,Late Blight,Late Blight
+4be05670-885c-4a87-a22a-dfb89f0b15d0___RS_Late.B 6588.JPG,Late Blight,Late Blight
+4ca113ee-0468-483d-be29-68a27bf60a71___GHLB2 Leaf 8890_flipLR.JPG,Late Blight,Late Blight
+506f24fb-92f4-4fe6-9d67-31e3ddd05fc0___GHLB2 Leaf 8819.JPG,Late Blight,Septoria Leaf Spot
+541b1d99-c630-4730-861f-a8ef53615709___GHLB2 Leaf 8857.JPG,Late Blight,Septoria Leaf Spot
+56226d25-dadc-4c38-8a06-cba810b38c42___GHLB2 Leaf 154.1.JPG,Late Blight,Late Blight
+57c53f65-3137-41d3-9bf7-7ac867f3efe8___RS_Late.B 6255.JPG,Late Blight,Late Blight
+58c55232-ea2b-4ca9-9893-5f2f610969db___RS_Late.B 5448.JPG,Late Blight,Late Blight
+5a701380-2b9d-4dc4-9376-56ff0361a1dd___GHLB2 Leaf 8871_flipLR.JPG,Late Blight,Septoria Leaf Spot
+5d5d8789-8979-4e2d-ac17-7228e8af61c9___RS_Late.B 5109_flipLR.JPG,Late Blight,Late Blight
+5e7a999e-6617-4c94-8c57-c1b0e1a392b9___RS_Late.B 5636_flipLR.JPG,Late Blight,Late Blight
+5f3a7632-91cb-4b5f-a36f-9e31f8daf5d5___GHLB2 Leaf 9056_flipLR.JPG,Late Blight,Septoria Leaf Spot
+5f774121-b3b2-46fd-a67c-f4d8caf93e5a___GHLB2ES Leaf 66.1_flipLR.JPG,Late Blight,Late Blight
+65576adf-cef4-4f1a-8b7c-881e8729bdbf___GHLB2 Leaf 147.JPG,Late Blight,Late Blight
+6f631d1f-06c4-4314-95fd-f79d5344cfba___RS_Late.B 5027_flipLR.JPG,Late Blight,Late Blight
+7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7_flipLR.jpg,Late Blight,Late Blight
+81425428-d995-492c-80ba-c28564d8f317___RS_Late.B 6265.JPG,Late Blight,Septoria Leaf Spot
+9176c69b-991a-4cd0-bfad-9742ad81a8b4___RS_Late.B 4989.JPG,Late Blight,Late Blight
+96231bbd-d315-48e1-8631-f318b29cb60d___RS_Late.B 7080.JPG,Late Blight,Late Blight
+98a95140-e62b-4234-b435-914d67d0afb1___RS_Late.B 6027.JPG,Late Blight,Late Blight
+a0f74b23-b001-4cb9-8a79-f80bda4cc8e8___GHLB2 Leaf 9018.JPG,Late Blight,Late Blight
+a5e71962-bf6d-486d-ab54-14004feb76da___RS_Late.B 6088.JPG,Late Blight,Late Blight
+ab4a4903-8395-481b-8f97-ee6837f5c094___GHLB_PS Leaf 30 Day 12.jpg,Late Blight,Late Blight
+ac89de10-2de8-40a4-8f6e-f0a37e97cd57___RS_Late.B 5126.JPG,Late Blight,Late Blight
+aff90d5c-a3f2-445a-b125-717a00b21fb8___RS_Late.B 6624.JPG,Late Blight,Early Blight
+bba9c7cc-21d8-43b7-acb2-9c079f810f89___RS_Late.B 6798.JPG,Late Blight,Late Blight
+bd10f32e-3a27-4a58-9def-62555e99b223___RS_Late.B 6768.JPG,Late Blight,Late Blight
+bf6cc0d5-0c8c-4a49-80d1-970c3e691073___RS_Late.B 4987.JPG,Late Blight,Late Blight
+c68a177e-bd9d-4995-a8ab-9ef75bcef2fe___GHLB2 Leaf 8995.JPG,Late Blight,Late Blight
+c91400cf-83f0-4472-9504-3234ccecf65c___RS_Late.B 5218.JPG,Late Blight,Late Blight
+d1c1488e-f121-4b32-a7f6-24c25ee6b766___RS_Late.B 7102.JPG,Late Blight,Late Blight
+d63639eb-4a20-4321-b8b6-38de563a1ee6___GHLB_PS Leaf 26.4 Day 13.jpg,Late Blight,Late Blight
+d8856c76-c822-408c-9113-e1eadedb5cba___RS_Late.B 5491.JPG,Late Blight,Late Blight
+dbbe0ac5-5cb6-4bcd-940a-f0a8104d4e79___RS_Late.B 6067.JPG,Late Blight,Late Blight
+dce856b2-1c63-4305-97ab-5ab443f462bf___RS_Late.B 6099.JPG,Late Blight,Late Blight
+dd3bd618-677a-4661-81bd-8ac871ad8549___GHLB2 Leaf 8884.JPG,Late Blight,Late Blight
+e1501757-3235-4051-b460-52c0f6e45add___RS_Late.B 4910.JPG,Late Blight,Late Blight
+e4be24d1-b3c1-4d03-b35a-56dddf1902fe___RS_Late.B 4855.JPG,Late Blight,Late Blight
+e686c35e-fcb4-463b-ad2a-2c1da18135bb___GHLB2 Leaf 9023.JPG,Late Blight,Late Blight
+f4aa3db8-2ad1-4abc-bb2e-4b63ed4d966a___GHLB2 Leaf 107.2.JPG,Late Blight,Early Blight
+0654aea3-e038-4876-8088-30a1b693fe6c___RS_NLB 3574 copy_180deg.jpg,Northern Leaf Blight,Northern Leaf Blight
+162b2f34-0fa5-49ca-8996-ef495e8ef6c6___RS_NLB 3484_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+290ebdd9-0ba3-4ffc-a254-bbd5004d315b___RS_NLB 3655_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+2f712faf-6cc2-45b8-8dc3-fb81df57a428___RS_NLB 4173.JPG,Northern Leaf Blight,Northern Leaf Blight
+3c423b70-c265-47ab-9aad-9f5235ccd343___RS_NLB 3819.JPG,Northern Leaf Blight,Northern Leaf Blight
+484d5173-c460-4601-8d9b-c02d1cea5bb3___RS_NLB 3880.JPG,Northern Leaf Blight,Northern Leaf Blight
+5d8533b8-c57e-49af-aa9e-e4ab9f28f92b___RS_NLB 3691.JPG,Northern Leaf Blight,Northern Leaf Blight
+75bae5d9-4007-4f94-94f9-7fc9e7fd4ad5___RS_NLB 4132_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+76773e2f-9cd1-46d1-aeb5-f6481d3066ee___RS_NLB 3998.JPG,Northern Leaf Blight,Northern Leaf Blight
+7925918d-440d-4a55-92c1-6d912f119994___RS_NLB 4665_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+7f6ca3f9-1023-45f1-9f1c-bd530355367f___RS_NLB 4175.JPG,Northern Leaf Blight,Northern Leaf Blight
+7fc13d9f-316e-41ff-b216-5665c08357e6___RS_NLB 0784.JPG,Northern Leaf Blight,Northern Leaf Blight
+811ac5c3-9079-43aa-ba29-8b1bc35dd156___RS_NLB 4069_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+82627249-dfdd-4afc-aa5a-6653a6d68824___RS_NLB 3954 copy 2_flipTB.jpg,Northern Leaf Blight,Northern Leaf Blight
+828594dc-1ed5-4b8b-84a4-90e0d7225969___RS_NLB 0790_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+869f3ccf-c9f3-44f8-8214-4a513d4eb2df___RS_NLB 0779_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+8a936e9c-617d-4f4c-834a-6b4cb40db290___RS_NLB 3660.JPG,Northern Leaf Blight,Common Rust
+8c4c376b-1f9a-4dde-88f3-453f6154c25f___RS_NLB 3987.JPG,Northern Leaf Blight,Northern Leaf Blight
+8e0669bb-1959-4f28-b98d-da3c2d85396c___RS_NLB 3678.JPG,Northern Leaf Blight,Northern Leaf Blight
+95b2bcb7-56f0-47e0-82d1-7328e6863de9___RS_NLB 0787.JPG,Northern Leaf Blight,Northern Leaf Blight
+9d2d967e-cd83-4407-96ee-4620a979b00b___RS_NLB 4283.JPG,Northern Leaf Blight,Northern Leaf Blight
+a7a2af2d-ec31-4567-ac30-e6cc593e1cb9___RS_NLB 3995_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+acfc653f-44e2-41f6-85cd-3595a6fd7455___RS_NLB 3840_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+b669564b-720d-462c-bd15-225764698119___RS_NLB 4277.JPG,Northern Leaf Blight,Northern Leaf Blight
+b761537f-f90f-43a6-a816-6d515dfa0e26___RS_NLB 3797_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+b927fa6f-d9c6-4fa0-b93f-ca77f7cec655___RS_NLB 3827_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+bfd70e3b-3556-4dab-b5c2-64a6b0dfa9b5___RS_NLB 4110_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+c4eb96b2-1345-46d0-a796-161042da21df___RS_NLB 0824 copy_flipTB.jpg,Northern Leaf Blight,Northern Leaf Blight
+c820ac4f-54d2-4046-bb70-b53fa649f648___RS_NLB 3680_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+c94c8b78-b8e1-45cf-bac8-80d8a0c6b64d___RS_NLB 0781.JPG,Northern Leaf Blight,Northern Leaf Blight
+ca030ee1-dbaa-496d-a111-98927d15de23___RS_NLB 3819 copy.jpg,Northern Leaf Blight,Northern Leaf Blight
+cfec0626-7a50-4411-a6b9-f63a49e4d2eb___RS_NLB 3746_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+cff04564-1693-49ef-b5c0-6bbe4ff92d6b___RS_NLB 3475_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+d1c32303-12e4-4de5-b04a-811bcacfae3b___RS_NLB 3831_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+d51a6187-b667-4848-9aed-c73387186696___RS_NLB 4146_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+d612943e-54f2-435d-ade7-973c02e234e9___RS_NLB 4026_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+d95f6c9c-1c62-47d6-a643-093cd3402162___RS_NLB 3942 copy 2.jpg,Northern Leaf Blight,Northern Leaf Blight
+dd430eb3-4f5c-45a9-9f18-c5ee82073ec4___RS_NLB 4195.JPG,Northern Leaf Blight,Northern Leaf Blight
+e15e053c-4b0a-48a3-a622-c2395bd93b64___RS_NLB 4008_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+e2fc31a8-6b0e-4c15-9fba-2024d2295827___RS_NLB 4229_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+e472dfcf-e2c6-4e5b-9d93-b31921cb5f07___RS_NLB 3974_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+e941ff1a-22c8-42ef-8ccb-bc5899e6764b___RS_NLB 3802_flipTB.JPG,Northern Leaf Blight,Northern Leaf Blight
+e9922bf3-c8dc-460b-bb52-65bba02ff618___RS_NLB 3478_180deg.JPG,Northern Leaf Blight,Northern Leaf Blight
+ea41c5a7-8436-4ee5-b528-4c0f5b656e82___RS_NLB 3786.JPG,Northern Leaf Blight,Northern Leaf Blight
+f06ca1ec-25c8-4d0f-ae7c-6bb0ffb7e0b0___RS_NLB 3584.JPG,Northern Leaf Blight,Northern Leaf Blight
+f437c2b5-6299-454b-bb73-b09ebb30cbb3___RS_NLB 3664.JPG,Northern Leaf Blight,Northern Leaf Blight
+f89ead10-10be-4102-82f8-35810eb4a3d1___RS_NLB 3557.JPG,Northern Leaf Blight,Northern Leaf Blight
+fdff294e-df6e-42eb-9bcf-edecf4002891___RS_NLB 4158.JPG,Northern Leaf Blight,Northern Leaf Blight
+06225525-413e-411b-a503-85e8dc6050a8___JR_Sept.L.S 8351.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+0ebf0c98-aeb9-4630-afa0-0c9a2dc32995___Matt.S_CG 6233_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+1bd1e4bf-3f5e-4954-a265-edb058f2db96___Matt.S_CG 1215_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+1c9a19ab-15e6-4af9-9130-603a329f356e___Matt.S_CG 7520_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+2a7760ee-1b7c-437d-8f47-b6a65c6a3d9c___JR_Sept.L.S 2569.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+2b526b63-b759-4187-ab73-ce49ebb07191___JR_Sept.L.S 2681.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+2f5e144b-cf8f-4882-8ee5-10eafb8778cc___Matt.S_CG 7579.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+3c128fd7-83d2-4202-b612-7e29f1ac4357___Matt.S_CG 2437.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+4c17268b-94cd-4cc6-979a-d84a81c9fa7f___Matt.S_CG 1503_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+4c764c63-9353-46cc-9afb-08de31110043___Matt.S_CG 7535_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+4d4d398a-daf4-4013-9f92-f39dd34abf35___Keller.St_CG 2010_flipTB.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+50ae0da2-fded-4c78-beb9-0f5e9a85a989___Matt.S_CG 7636.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+54aacda6-8c9c-4112-891e-cc1612a7238d___Matt.S_CG 6290.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+54e9c79f-bcce-4744-b5e0-be176d879a30___JR_Sept.L.S 8349.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+59a17e56-9717-4eaa-857d-e7511f00b633___Matt.S_CG 1027.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+5a43b236-f091-4e4b-8b17-b7fe3a6515d3___JR_Sept.L.S 8390_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+5a821b14-10d8-49ad-9e16-be2eeef81d4f___Matt.S_CG 7434_180deg.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+604db609-ce1b-48e0-bf73-4f9c53ffa051___JR_Sept.L.S 8418.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+63f2b877-9787-4da3-af27-350609736524___Matt.S_CG 2863.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+657bb6c3-e9e8-41ce-b3ef-265168eae5d6___Matt.S_CG 6685.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+67162529-30dd-46c3-9f26-1e728b7a3cee___Matt.S_CG 0756.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+6e28615d-e735-42e3-8eef-96bf10a4908d___Matt.S_CG 1514.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+7cf8bfef-e8d7-406b-b27c-e5e545096545___JR_Sept.L.S 8427.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+8ddb1dc4-2a3b-47d1-aff4-53272713f514___JR_Sept.L.S 2603.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+9604c3d8-1ccd-4aea-8e31-b90ad17bdae1___JR_Sept.L.S 8406.JPG,Septoria Leaf Spot,Early Blight
+a011fd44-5a93-4058-b283-b3cd786b3f3c___Keller.St_CG 1777.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+a48fda6c-abcb-4cf4-b63f-b190ee1af683___JR_Sept.L.S 2582.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+a7c4ec00-e9fb-4f44-af56-5bb6e7b73e3c___Matt.S_CG 0978.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+b176a644-d8ac-4bdd-9d6b-e4038ce910ac___Matt.S_CG 6914.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+ba03e414-81d2-44ec-ab16-bf279266d531___Matt.S_CG 2697.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+bee496d7-5071-457d-ae59-4a2a3f620b2e___Matt.S_CG 6083.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+c2f1a5c9-63f5-4e18-8b33-891145c7a2be___Matt.S_CG 7539.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+c311dca2-18ca-4304-b356-a2764d8322d2___Matt.S_CG 7801.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+cbc521e4-3e95-4c0d-a806-56519afd72df___JR_Sept.L.S 8561.JPG,Septoria Leaf Spot,Early Blight
+cbf33493-c9d7-486c-90c7-0e1117aec294___Matt.S_CG 7472.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+cdf7e54e-1bc9-4107-a49c-77be805c52be___Matt.S_CG 7730.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+d5380a5d-03bb-46d1-ae25-b245f3eec822___Matt.S_CG 7626.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+d5e0bb6d-149c-4750-b7ed-8d92cd419720___Matt.S_CG 7688.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+e65190f0-97e9-44a6-bcb8-9fe7d42e9200___Matt.S_CG 7413.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+ee3205cd-bafb-416b-b560-caef5586b96c___JR_Sept.L.S 2540.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+f1a943c2-373d-43e1-97c4-19458d938bdc___Matt.S_CG 6732.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+f97d12f1-f757-4b67-b19c-15c303c215c0___Keller.St_CG 1923.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+f99f3ec6-6c53-44bc-8a0b-70ff449c4fb5___JR_Sept.L.S 8549.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+fb6bea39-f361-457c-b73e-fe3b2dbe6259___Matt.S_CG 2786.JPG,Septoria Leaf Spot,Septoria Leaf Spot
+13248326-a01f-4f05-8502-fe2ecd936ccc___UF.GRC_YLCV_Lab 02422.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+34986eb3-fe72-473a-8614-450a85f20c2c___UF.GRC_YLCV_Lab 03072.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+47487db4-da7f-4104-9511-8ce9d1ced14e___UF.GRC_YLCV_Lab 03046.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+53340e3e-368b-4139-8931-afa1c171dbda___YLCV_GCREC 2525.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+797266f3-1a6d-4201-a4d8-01cff698bfdb___UF.GRC_YLCV_Lab 01619.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+9300962c-fa16-4c51-b18c-bd0022434680___YLCV_GCREC 2484.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+aa59ae39-6041-4e78-8c25-9c26f6bd585f___YLCV_GCREC 5498.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+ab7183a7-fa55-48cf-b334-1264dddc647e___UF.GRC_YLCV_Lab 01890.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+ae4cad0b-630b-4b14-b6f4-1672c87f8e59___UF.GRC_YLCV_Lab 09374.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b056a7d8-49bb-495a-bc7a-c699f804c7ea___YLCV_NREC 0212.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b0c0a1fb-0597-4ca1-99e4-6cea1804e633___YLCV_NREC 2099.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b1c01d02-66f9-4b4e-a426-696cbf28955d___UF.GRC_YLCV_Lab 01737.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b207f179-2945-4eb7-883f-ca6b6610ecb2___YLCV_GCREC 2241.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b22d22f3-45fc-47f8-99d7-3afcbde3817a___UF.GRC_YLCV_Lab 02316.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b3fe3d8c-f0e0-405c-a67d-ac57db6be043___YLCV_GCREC 2157.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b57bfdc6-1769-4976-8d28-14e1c7915b36___YLCV_NREC 2855.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b61099c9-7bcd-4ff9-b57a-e8d2115653cb___UF.GRC_YLCV_Lab 03110.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b689c61e-2685-4c51-9b1c-a136bc61cae7___YLCV_NREC 0276.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+b974d4bd-2eb4-4195-9ef3-e396fa51f085___UF.GRC_YLCV_Lab 01982.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+be56dbfb-43a7-4cc8-a951-81784598308c___UF.GRC_YLCV_Lab 03363.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+c363728e-7dbc-4635-8ee5-cb24ebd254c9___UF.GRC_YLCV_Lab 02733.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+c735cec4-01f5-4f3e-8475-57b069caaf6f___YLCV_NREC 2040.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+cc007d31-b838-4ce8-b5ac-572bbe788084___UF.GRC_YLCV_Lab 02324.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+cdcd9319-3b67-4caa-8bc4-038b269c828e___UF.GRC_YLCV_Lab 03080.JPG,Yellow Leaf Curl Virus,Late Blight
+cf968b6f-7659-4e03-afa6-6fb3f57f47b0___UF.GRC_YLCV_Lab 08498.JPG,Yellow Leaf Curl Virus,Bacterial Spot
+d1021bc4-cc1b-4a4a-ad8f-a13c33f9c786___UF.GRC_YLCV_Lab 01482.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+d3411f48-9c96-453f-8860-69ede64c9780___YLCV_GCREC 2741.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+d738da92-7e26-49b7-9cbc-88462a37aa1c___UF.GRC_YLCV_Lab 01707.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+d7e616a6-0d00-4768-8cf5-27f4a81b839f___YLCV_GCREC 2751.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+d8ef30fa-769d-4c94-8f81-2174bc740b5a___YLCV_GCREC 2394.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+db84e0e0-b20c-44d6-9758-b4e2e4d23491___YLCV_GCREC 5139.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+dbca697b-7070-409a-971e-1d275e10749b___YLCV_GCREC 5169.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+dd9b2bbb-6708-4188-8224-1bbf75c9f55b___UF.GRC_YLCV_Lab 03160.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+e0332e2a-9eb9-476d-ae7c-40ad99fad7ba___UF.GRC_YLCV_Lab 01391.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+e2370913-7b55-4348-bd70-9a9542f6cada___UF.GRC_YLCV_Lab 02565.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+e568fb2c-106d-4999-bbea-a3f32d63e1fd___UF.GRC_YLCV_Lab 02108.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+e7793d98-ca6c-4030-8b4a-4bd506cde757___YLCV_NREC 2268.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+e9db85a4-65fb-4625-9c97-1e636a03565f___UF.GRC_YLCV_Lab 02306.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+eb1ebddb-ab92-49bd-b304-9620effd96ce___YLCV_NREC 2902.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+eb52b160-081d-4e69-8446-cabecf9b14ad___UF.GRC_YLCV_Lab 01494.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+ed71c2c1-d082-4355-bbc5-ed7050708ffa___UF.GRC_YLCV_Lab 02278.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+edf03af4-9432-40f3-a6a0-d11b902bfa08___UF.GRC_YLCV_Lab 01782.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+eec6cfb3-3856-4d30-a800-1dc0a1a11f13___UF.GRC_YLCV_Lab 08537.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+f2ddfdc3-b25d-4b65-8ff4-d1cc23111899___UF.GRC_YLCV_Lab 03011.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+f501d784-4658-434e-87f4-44496a07054e___YLCV_GCREC 5205.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+f553bfab-4666-4e9d-a0fc-311e034a3e10___YLCV_NREC 2715.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+f940df0a-db07-446a-8106-815d7ebe2f00___UF.GRC_YLCV_Lab 02317.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+f9b9a635-2e86-43ba-a8bd-5bfea22e2f51___YLCV_NREC 2249.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus
+fab4fee5-bbac-4996-8b8b-c91fb70dcb92___YLCV_GCREC 5484.JPG,Yellow Leaf Curl Virus,Yellow Leaf Curl Virus

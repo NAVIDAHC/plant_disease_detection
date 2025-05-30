@@ -1,0 +1,15 @@
+Classification Report for regnet (base_model) on plantvillage:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           1.000000  1.000000  1.000000   43.000000
+Cercospora Leaf Spot     1.000000  0.951220  0.975000   41.000000
+Common Rust              0.979592  1.000000  0.989691   48.000000
+Early Blight             1.000000  1.000000  1.000000   48.000000
+Healthy                  1.000000  1.000000  1.000000   96.000000
+Late Blight              1.000000  1.000000  1.000000   47.000000
+Northern Leaf Blight     0.959184  0.979167  0.969072   48.000000
+Septoria Leaf Spot       1.000000  1.000000  1.000000   44.000000
+Yellow Leaf Curl Virus   1.000000  1.000000  1.000000   49.000000
+accuracy                 0.993534  0.993534  0.993534    0.993534
+macro avg                0.993197  0.992265  0.992640  464.000000
+weighted avg             0.993666  0.993534  0.993525  464.000000

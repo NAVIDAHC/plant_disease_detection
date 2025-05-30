@@ -1,0 +1,5 @@
+Combined Timing Summary for efficientnetv2 - augmented:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       46.483042                0.100179
+      plantdoc       75.356513                0.170490

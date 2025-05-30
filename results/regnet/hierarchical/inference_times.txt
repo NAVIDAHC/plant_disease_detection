@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for regnet - hierarchical:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       14.971460                0.032266
+      plantdoc       33.556204                0.075919

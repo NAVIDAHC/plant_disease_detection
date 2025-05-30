@@ -1,0 +1,15 @@
+Classification Report for vision_transformer (base_model) on plantdoc:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           0.000000  0.000000  0.000000   50.000000
+Cercospora Leaf Spot     0.310345  0.750000  0.439024   48.000000
+Common Rust              0.500000  0.145833  0.225806   48.000000
+Early Blight             0.288660  0.571429  0.383562   49.000000
+Healthy                  0.247423  0.500000  0.331034   48.000000
+Late Blight              0.625000  0.612245  0.618557   49.000000
+Northern Leaf Blight     0.291667  0.148936  0.197183   47.000000
+Septoria Leaf Spot       0.255814  0.215686  0.234043   51.000000
+Yellow Leaf Curl Virus   1.000000  0.038462  0.074074   52.000000
+accuracy                 0.328054  0.328054  0.328054    0.328054
+macro avg                0.390990  0.331399  0.278143  442.000000
+weighted avg             0.394337  0.328054  0.275930  442.000000

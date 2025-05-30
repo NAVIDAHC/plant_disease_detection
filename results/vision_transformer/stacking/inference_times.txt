@@ -1,0 +1,5 @@
+Combined Timing Summary for vision_transformer - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage      152.378036                0.328401
+      plantdoc      195.785458                0.442954

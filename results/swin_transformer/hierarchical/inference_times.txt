@@ -1,0 +1,5 @@
+Combined Timing Summary for swin_transformer - hierarchical:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       80.981900                0.174530
+      plantdoc       83.823131                0.189645

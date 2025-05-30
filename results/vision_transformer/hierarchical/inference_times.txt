@@ -1,0 +1,5 @@
+Combined Timing Summary for vision_transformer - hierarchical:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage      159.021123                0.342718
+      plantdoc      164.063009                0.371183

@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for resnet50 - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       50.722652                0.109316
+      plantdoc       64.481739                0.145886

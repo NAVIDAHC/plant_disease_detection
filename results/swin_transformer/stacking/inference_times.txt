@@ -1,0 +1,5 @@
+Combined Timing Summary for swin_transformer - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       74.118939                0.159739
+      plantdoc       92.244659                0.208698

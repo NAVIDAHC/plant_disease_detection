@@ -1,0 +1,15 @@
+Classification Report for convnext (base_model) on plantvillage:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           1.000000  1.000000  1.000000   43.000000
+Cercospora Leaf Spot     1.000000  0.975610  0.987654   41.000000
+Common Rust              1.000000  1.000000  1.000000   48.000000
+Early Blight             1.000000  1.000000  1.000000   48.000000
+Healthy                  1.000000  1.000000  1.000000   96.000000
+Late Blight              1.000000  1.000000  1.000000   47.000000
+Northern Leaf Blight     0.979592  1.000000  0.989691   48.000000
+Septoria Leaf Spot       1.000000  1.000000  1.000000   44.000000
+Yellow Leaf Curl Virus   1.000000  1.000000  1.000000   49.000000
+accuracy                 0.997845  0.997845  0.997845    0.997845
+macro avg                0.997732  0.997290  0.997483  464.000000
+weighted avg             0.997889  0.997845  0.997843  464.000000

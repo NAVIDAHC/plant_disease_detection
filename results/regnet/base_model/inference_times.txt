@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for regnet - base_model:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       15.220984                0.032804
+      plantdoc       14.985318                0.033903

@@ -1,0 +1,3 @@
+Inference Type,Total Time (s),Avg Time per Image (s)
+PlantVillage,12.576732158660889,0.027105026204010535
+PlantDoc,14.958910703659058,0.03384368937479425

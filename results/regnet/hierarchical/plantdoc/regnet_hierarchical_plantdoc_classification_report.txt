@@ -1,0 +1,15 @@
+Classification Report for regnet (hierarchical) on plantdoc:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           0.000000  0.000000  0.000000   50.000000
+Cercospora Leaf Spot     0.296000  0.770833  0.427746   48.000000
+Common Rust              0.428571  0.062500  0.109091   48.000000
+Early Blight             0.343284  0.469388  0.396552   49.000000
+Healthy                  0.340426  0.666667  0.450704   48.000000
+Late Blight              0.482759  0.571429  0.523364   49.000000
+Northern Leaf Blight     0.296296  0.170213  0.216216   47.000000
+Septoria Leaf Spot       0.313725  0.313725  0.313725   51.000000
+Yellow Leaf Curl Virus   1.000000  0.250000  0.400000   52.000000
+accuracy                 0.361991  0.361991  0.361991    0.361991
+macro avg                0.389007  0.363862  0.315267  442.000000
+weighted avg             0.392583  0.361991  0.315475  442.000000

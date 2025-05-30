@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for resnet50 - base_model:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       43.527608                 0.09381
+      plantdoc       42.361275                 0.09584

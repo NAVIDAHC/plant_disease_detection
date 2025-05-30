@@ -1,0 +1,15 @@
+Report for efficientnetv2 (base_model) on plantdoc:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           1.000000  0.020000  0.039216   50.000000
+Cercospora Leaf Spot     0.411111  0.770833  0.536232   48.000000
+Common Rust              0.583333  0.145833  0.233333   48.000000
+Early Blight             0.329412  0.571429  0.417910   49.000000
+Healthy                  0.270492  0.687500  0.388235   48.000000
+Late Blight              0.492537  0.673469  0.568966   49.000000
+Northern Leaf Blight     0.300000  0.127660  0.179104   47.000000
+Septoria Leaf Spot       0.400000  0.235294  0.296296   51.000000
+Yellow Leaf Curl Virus   0.800000  0.230769  0.358209   52.000000
+accuracy                 0.382353  0.382353  0.382353    0.382353
+macro avg                0.509654  0.384754  0.335278  442.000000
+weighted avg             0.513784  0.382353  0.334950  442.000000

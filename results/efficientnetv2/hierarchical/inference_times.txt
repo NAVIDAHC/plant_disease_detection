@@ -1,0 +1,5 @@
+Combined Timing Summary for efficientnetv2 - hierarchical:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       77.946021                0.167987
+      plantdoc       74.216178                0.167910

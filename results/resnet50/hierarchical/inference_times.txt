@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for resnet50 - hierarchical:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       40.149882                0.086530
+      plantdoc       55.104753                0.124671

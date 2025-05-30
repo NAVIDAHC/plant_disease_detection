@@ -1,0 +1,5 @@
+Combined Timing Summary for efficientnetv2 - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       49.224357                0.106087
+      plantdoc       62.581039                0.141586

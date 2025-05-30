@@ -1,0 +1,5 @@
+Combined Timing Summary for convnext - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       55.301118                0.119183
+      plantdoc      103.698608                0.234612

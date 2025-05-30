@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for regnet - stacking:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       31.440285                0.067759
+      plantdoc       48.386831                0.109472

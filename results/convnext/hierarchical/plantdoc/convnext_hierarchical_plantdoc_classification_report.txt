@@ -1,0 +1,15 @@
+Report for convnext (hierarchical) on plantdoc:
+
+                        precision    recall  f1-score    support
+Bacterial Spot           0.000000  0.000000  0.000000   50.00000
+Cercospora Leaf Spot     0.369565  0.708333  0.485714   48.00000
+Common Rust              0.636364  0.291667  0.400000   48.00000
+Early Blight             0.365854  0.612245  0.458015   49.00000
+Healthy                  0.363636  0.583333  0.448000   48.00000
+Late Blight              0.430380  0.693878  0.531250   49.00000
+Northern Leaf Blight     0.500000  0.148936  0.229508   47.00000
+Septoria Leaf Spot       0.328571  0.450980  0.380165   51.00000
+Yellow Leaf Curl Virus   1.000000  0.115385  0.206897   52.00000
+accuracy                 0.398190  0.398190  0.398190    0.39819
+macro avg                0.443819  0.400529  0.348839  442.00000
+weighted avg             0.445728  0.398190  0.347118  442.00000

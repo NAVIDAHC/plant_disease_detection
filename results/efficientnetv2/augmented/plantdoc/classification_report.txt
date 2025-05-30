@@ -1,0 +1,15 @@
+                        precision    recall  f1-score   support
+
+        Bacterial Spot       0.00      0.00      0.00        50
+  Cercospora Leaf Spot       0.27      0.46      0.34        48
+           Common Rust       0.17      0.10      0.13        48
+          Early Blight       0.38      0.35      0.36        49
+               Healthy       0.28      0.40      0.32        48
+           Late Blight       0.23      0.63      0.34        49
+  Northern Leaf Blight       0.25      0.21      0.23        48
+    Septoria Leaf Spot       0.15      0.04      0.06        51
+Yellow Leaf Curl Virus       0.28      0.15      0.20        52
+
+              accuracy                           0.26       443
+             macro avg       0.22      0.26      0.22       443
+          weighted avg       0.22      0.26      0.22       443

@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for swin_transformer - base_model:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage       54.267325                0.116955
+      plantdoc       45.212491                0.102291

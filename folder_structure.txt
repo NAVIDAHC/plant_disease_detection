@@ -1,0 +1,192 @@
+Folder structure (directories only) for: C:\Users\maryr\OneDrive\Desktop\Ivan Thesis\thesis_final
+
+plant_disease_detection/
+    dataset/
+        plantdoc/
+            test/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+            train/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+            val/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+        plantvillage/
+             test/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+            train/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+            val/
+                Bacterial Spot/
+                Cercospora Leaf Spot/
+                Common Rust/
+                Early Blight/
+                Healthy/
+                Late Blight/
+                Northern Leaf Blight/
+                Septoria Leaf Spot/
+                Yellow Leaf Curl Virus/
+    models/
+        convnext/
+            augmented/
+            meta_learner/
+            trained/
+        efficientnetv2/
+            augmented/
+            meta_learner/
+            trained/
+        glcm_knn/
+            trained/
+        regnet/
+            augmented/
+            meta_learner/
+            trained/
+        resnet50/
+            augmented/
+            meta_learner/
+            trained/
+        swin_transformer/
+            augmented/
+            meta_learner/
+            trained/
+        vision_transformer/
+            augmented/
+            meta_learner/
+            trained/
+    results/
+        convnext/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+        efficientnetv2/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+        glcm_knn/
+            base_model/
+                plantdoc/
+                plantvillage/
+        regnet/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+        resnet50/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+        swin_transformer/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+        vision_transformer/
+            augmented/
+                plantdoc/
+                plantvillage/
+            base_model/
+                plantdoc/
+                plantvillage/
+            hierarchical/
+                plantdoc/
+                plantvillage/
+            stacking/
+                plantdoc/
+                plantvillage/
+    scripts/
+        architecture_framework_scripts/
+            convnext/
+                time_scripts/
+            efficientnetv2/
+                time_scripts/
+            glcm_knn/
+            regnet/
+                time_scripts/
+            resnet50/
+                time_scripts/
+            swin_transformer/
+                time_scripts/
+            vision_transformer/
+                time_scripts/
+        utils/

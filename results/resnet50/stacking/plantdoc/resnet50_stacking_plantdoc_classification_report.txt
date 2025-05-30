@@ -1,0 +1,15 @@
+Classification Report for resnet50 (stacking) on plantdoc:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           0.674419  0.580000  0.623656   50.000000
+Cercospora Leaf Spot     0.500000  0.750000  0.600000   48.000000
+Common Rust              0.766667  0.479167  0.589744   48.000000
+Early Blight             0.634921  0.816327  0.714286   49.000000
+Healthy                  0.565217  0.541667  0.553191   48.000000
+Late Blight              0.622642  0.673469  0.647059   49.000000
+Northern Leaf Blight     0.428571  0.255319  0.320000   47.000000
+Septoria Leaf Spot       0.537313  0.705882  0.610169   51.000000
+Yellow Leaf Curl Virus   0.475000  0.365385  0.413043   52.000000
+accuracy                 0.574661  0.574661  0.574661    0.574661
+macro avg                0.578306  0.574135  0.563461  442.000000
+weighted avg             0.578094  0.574661  0.563770  442.000000

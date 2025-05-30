@@ -1,0 +1,15 @@
+Report for swin_transformer (augmented) on plantdoc:
+
+                        precision    recall  f1-score     support
+Bacterial Spot           0.914286  0.640000  0.752941   50.000000
+Cercospora Leaf Spot     0.814815  0.916667  0.862745   48.000000
+Common Rust              0.959184  0.979167  0.969072   48.000000
+Early Blight             0.925000  0.755102  0.831461   49.000000
+Healthy                  0.959184  0.979167  0.969072   48.000000
+Late Blight              0.839286  0.959184  0.895238   49.000000
+Northern Leaf Blight     0.880952  0.787234  0.831461   47.000000
+Septoria Leaf Spot       0.720588  0.960784  0.823529   51.000000
+Yellow Leaf Curl Virus   0.979592  0.923077  0.950495   52.000000
+accuracy                 0.877828  0.877828  0.877828    0.877828
+macro avg                0.888098  0.877820  0.876224  442.000000
+weighted avg             0.887897  0.877828  0.876023  442.000000

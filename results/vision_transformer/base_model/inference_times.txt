@@ -1,0 +1,5 @@
+Combined Inference Timing Summary for vision_transformer - base_model:
+
+Inference Type  Total Time (s)  Avg Time per Image (s)
+  plantvillage      132.117673                0.284736
+      plantdoc      117.395253                0.265600
