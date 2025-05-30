@@ -95,6 +95,7 @@ Root/ (plant_disease_detection/)
 -   Install the necessary packages using the `requirements.txt` file.
 ```
 ### Requirements
+
 ```
 numpy>=1.18.0
 pandas>=1.0.0
@@ -133,6 +134,7 @@ Root/
 The PlantDoc dataset from Kaggle includes train, validation, and test splits. This project primarily utilizes the PlantDoc dataset to evaluate model performance on challenging field images.
 
 ### Models
+
 This project requires models to be trained from scratch using the provided scripts. Trained model files are not included in the repository. When you run the training scripts, the resulting model files (e.g., .pkl, .h5, etc.) will be saved in the corresponding subdirectories under the models/ folder, as outlined in the Project Structure section.
 
 ## Usage
