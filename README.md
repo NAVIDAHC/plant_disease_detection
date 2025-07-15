@@ -115,6 +115,7 @@ pip install -r requirements.txt
 The datasets used in this project are not included in this repository due to their size. You can download them from the following links:
 
 **PlantVillage**: https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
+
 **PlantDoc**: https://www.kaggle.com/datasets/nirmalsankalana/plantdoc-dataset
 After downloading and extracting, you should organize them in a dataset/ folder at the root of this project, following this structure:
 ```
